@@ -1,0 +1,10 @@
+C:\projects\csharp-projects\PracticeProjects\BMICalculator\bin\Debug\BMICalculator.exe.config
+C:\projects\csharp-projects\PracticeProjects\BMICalculator\bin\Debug\BMICalculator.exe
+C:\projects\csharp-projects\PracticeProjects\BMICalculator\bin\Debug\BMICalculator.pdb
+C:\projects\csharp-projects\PracticeProjects\BMICalculator\obj\Debug\BMICalculator.csprojResolveAssemblyReference.cache
+C:\projects\csharp-projects\PracticeProjects\BMICalculator\obj\Debug\BMICalculator.BMICalculator.resources
+C:\projects\csharp-projects\PracticeProjects\BMICalculator\obj\Debug\BMICalculator.Properties.Resources.resources
+C:\projects\csharp-projects\PracticeProjects\BMICalculator\obj\Debug\BMICalculator.csproj.GenerateResource.cache
+C:\projects\csharp-projects\PracticeProjects\BMICalculator\obj\Debug\BMICalculator.csproj.CoreCompileInputs.cache
+C:\projects\csharp-projects\PracticeProjects\BMICalculator\obj\Debug\BMICalculator.exe
+C:\projects\csharp-projects\PracticeProjects\BMICalculator\obj\Debug\BMICalculator.pdb
